@@ -1,0 +1,15 @@
+{
+  "s3VideoBucket": "someBucket",
+  "s3VideoFilename": "somefile.mp4",
+  "s3ImageBucket": "someBucket",
+  "s3ImageFilename": "somefile.jpg",
+  "youTubeChannelId": 1,
+  "youTubeCategoryId": 1,
+  "privateVideo": true,
+  "assetId": "someNuxeoAssetId",
+  "metaData": {
+    "title": "some title",
+    "description": "some description",
+    "tags": ["tag1", "tag2"]
+  }
+}
